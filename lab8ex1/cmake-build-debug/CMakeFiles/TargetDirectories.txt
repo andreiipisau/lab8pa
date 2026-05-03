@@ -1,0 +1,3 @@
+C:/Users/Marina/CLionProjects/lab8ex1/cmake-build-debug/CMakeFiles/lab8ex1.dir
+C:/Users/Marina/CLionProjects/lab8ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marina/CLionProjects/lab8ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

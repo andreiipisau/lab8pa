@@ -1,0 +1,5 @@
+Analiza Comparativa: Kruskal vs Prim
+
+1. Kruskal: Utilizeaza o lista de muchii sortata. Eficient pentru grafuri rare.
+2. Prim: Creste arborele de la un nod de start. Eficient pentru grafuri dense.
+3. Ambele sunt metode Greedy si garanteaza gasirea MST in grafuri conexe.
